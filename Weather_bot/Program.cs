@@ -9,7 +9,7 @@ namespace Weather_bot
 	{
 		static void Main(string[] args)
 		{
-			string token = "1839900183:AAECEuh1i-Nc0ADs9fnjz_spxvW0GV7iDwg";
+			string token = "";
 			TelegramBotClient client = new TelegramBotClient(token);
 			string sendMessage = "Моя твоя не понимать";
 
